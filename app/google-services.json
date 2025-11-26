@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659707170590",
+    "project_id": "sms-2025-e86cd",
+    "storage_bucket": "sms-2025-e86cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659707170590:android:ae55969ffeab4b2acb030f",
+        "android_client_info": {
+          "package_name": "com.example.stockmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuBPbqg0mwNYwoEvU-qWvB7wBeeLgcw3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
